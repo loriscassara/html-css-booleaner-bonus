@@ -1,0 +1,122 @@
+body {
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: cornflowerblue;
+    background-image: url(img/pattern.png);
+}
+ 
+.logo {
+    width: 15%;
+    padding-top: 3%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+}
+
+.mainheading {
+    padding-left: 1%;
+}
+
+#maintitle {
+    margin-bottom: 0%;
+}
+
+#mainparagraph {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-size: large;
+    color: darkgray;
+    font-weight: 600;
+}
+
+#mainparagraph2 {
+    margin-top: 0%;
+    font-size: small;
+    color: darkgray;
+    font-weight: 600;
+}
+
+#imgtim1 {
+    margin-left: 1%;
+    margin-bottom: 0%;
+}
+
+#imagesubtitles {
+    margin-left: 1%;
+    font-size: smaller;
+}
+
+#paragraphsubtitles {
+    margin-top: 0%;
+}
+
+#highlightedtext1 {
+    background-color: yellow;
+}
+
+#mainparagraph3 {
+    margin-left: 1%;
+}
+
+#tablehead {
+    background-color: dodgerblue;
+    color: white;
+
+}
+
+.table {
+    padding-left: 1%;
+}
+
+#tbody {
+    background-color: aqua;
+}
+
+#tfoot {
+    background-color: aqua;
+}
+
+#mainparagraph4 {
+    margin-left: 1%;
+}
+
+#highlightedtext2 {
+    background-color: yellow;
+}
+
+#footerparagraph1 {
+    margin-left: 1%;
+    font-size: large;
+    color: darkgray;
+    font-weight: 600;
+}
+
+#photoname1 {
+    margin-left: 1%;
+    font-size: large;
+    color: white;
+    background-image: url(img/graph.jpg);
+    width: 15%;
+    padding-bottom: 10%;
+}
+
+#photoname2 {
+    margin-left: 1%;
+    font-size: large;
+    color: white;
+    background-image: url(img/monitor.jpg);
+    width: 15%;
+    padding-bottom: 10%;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+footer {
+    width: 80%;
+    margin: auto;
+}
